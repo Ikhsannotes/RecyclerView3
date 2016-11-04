@@ -41,7 +41,7 @@
             android:maxLines="1"
             android:padding="16dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            tools:text="Deskripsi" />\
+            tools:text="Deskripsi" />
 
         <Button
             android:id="@+id/buttonEdit"
