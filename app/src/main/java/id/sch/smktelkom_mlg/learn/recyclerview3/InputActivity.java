@@ -85,6 +85,7 @@ public class InputActivity extends AppCompatActivity {
             uriFoto = data.getData();
             ivFoto.setImageURI(uriFoto);
         }
+
     }
 
     private void doSave() {
